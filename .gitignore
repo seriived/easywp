@@ -1,0 +1,78 @@
+# wp-content #
+######################
+wp-content/cache
+wp-content/uploads
+wp-content/issue
+wp-content/blogs.dir
+wp-content/themes/codekit-config.json
+wp-content/w3*
+wp-content/sedlex
+wp-config.php
+
+# wp-content/plugins #
+######################
+wp-content/plugins/bwp-minify/cache
+wp-content/plugins/knews/templates
+wp-content/plugins/users-to-csv
+wp-content/plugins/debug-queries
+wp-content/plugins/wordpress-importer
+wp-content/plugins/wp-minify/cache
+wp-content/plugins/knews/tmp
+
+# wp-admin #
+######################
+wp-admin/options-privacy.php
+
+# wp-content/themes #
+######################
+wp-content/themes/greenevolution-documents/_pagination.php
+wp-content/themes/greenevolution-webinar/js/page-payment.min.js
+wp-content/themes/greenevolution-wiki/_header-top.php
+wp-content/themes/greenevolution-wiki/_header.php
+wp-content/themes/greenevolution-wiki/comments.php
+wp-content/themes/greenevolution-wiki/wiki-include.php
+wp-content/themes/greenevolution/images/scl_slider/bg2.png
+wp-content/themes/greenevolution/images/sprite/news_from_the_field.png
+wp-content/themes/greenevolution/js/infragistics/
+wp-content/themes/greenevolution/js/jquery-1.7.2.min.js
+wp-content/themes/greenevolution/js/jquery-ui-1.8.23.custom.min.js
+wp-content/themes/greenevolution/js/jquery-ui-1.9.2.full.min.js
+wp-content/themes/greenevolution/single-special.php
+wp-content/themes/header.php
+wp-content/themes/index.php
+wp-content/themes/twentytwelve/
+
+# some stuff #
+######################
+.htaccess
+robots.txt
+documents
+google*.html
+webstat
+logs
+bb-config.php
+TAGS
+/post
+/tests
+sitemap.xml
+yandex.xml
+yandex_*.txt
+wp-rss_yandex.php
+wp-content.zip
+WordPress-Domain-Changer-wordpress_mu_support
+file.rss
+index.html
+
+# phpstorrm #
+######################
+.idea
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+.Spotlight-V100
